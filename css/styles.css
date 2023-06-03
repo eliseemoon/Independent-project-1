@@ -9,3 +9,9 @@ h2 {
 body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.my-class {
+  margin: 12px;
+  border: 5px dotted rgb(168, 147, 129);
+  padding: 30px;
+}
