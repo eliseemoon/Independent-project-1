@@ -15,3 +15,7 @@ body {
   border: 5px dotted rgb(168, 147, 129);
   padding: 30px;
 }
+
+#kiddo {
+  float: right;
+}
