@@ -15,7 +15,11 @@ body {
   border: 5px dotted rgb(168, 147, 129);
   padding: 30px;
 }
-
+#sheep {
+  float: left;
+  padding: 40px;
+}
 #kiddo {
   float: right;
+  padding: 10px;
 }
