@@ -4,6 +4,10 @@
 
 #### _A simple demonstration site showcasing HTML and CSS._
 
+## Link to GitHub Pages branch
+
+* https://eliseemoon.github.io/Independent-project-1/
+
 ## Technologies Used
 
 * _HTML_
@@ -27,4 +31,4 @@ _Elise's Portfolio Landing Page is an example of what someone with zero computer
 _MIT_
 _Please contact me with any questions_
 
-_Copyright (c) June 3, 2023 _Elise Moon_
+_Copyright (c) June 3, 2023 Elise Moon_
