@@ -29,5 +29,6 @@ _Elise's Portfolio Landing Page is an example of what someone with zero computer
 ## License
 
 * _MIT_
+* _Please contact me with any friendly questions_
 
 _Copyright (c) June 3, 2023 Elise Moon_
